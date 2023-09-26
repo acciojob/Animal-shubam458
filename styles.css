@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+#animal-photos{
+
+	background-color:gray;
+	
+}
+
+#photo-heading{
+
+	border-radius:30px;
+}
