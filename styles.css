@@ -10,6 +10,7 @@
 	
 	
 	
+	
 }
 
 #photo-heading{
@@ -21,7 +22,7 @@
 }
 
 img{
-
+  display:inline;
 	border-radius:20px;
 
 	padding:10px;
